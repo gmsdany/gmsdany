@@ -1,4 +1,4 @@
- ##  <div align="center"> 👋 Hi! I’m `@gmsdany`, welcome to my `GitHub profile` (●'◡'●).</div>
+ ##  <div align="center"> Hi! I’m `@gmsdany`, welcome to my `GitHub profile`.</div>
 
  <br>
   
