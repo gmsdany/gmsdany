@@ -9,7 +9,7 @@
 
 #
 
-<p align="center">Estudante de Ciência da Computação na Doctum de Caratinga. Atualmente, estou começando no desenvolvimento Front-End e estudando C++ para projetos acadêmicos. Tenho interesse em tecnologia, design e inovação. Sempre buscando aprender e evoluir para criar soluções impactantes
+<p align="center">Computer Science student at Doctum Caratinga. Currently starting in Front-End development and studying C++ for academic projects. I'm interested in technology, design, and innovation. Always looking to learn and grow to create impactful solutions.
   
 #
 
