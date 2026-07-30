@@ -1,54 +1,84 @@
- ##  <div align="center"> Hi! I’m `@gmsdany`, welcome to my `GitHub profile`.</div>
+<div align="center">
 
- <br>
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=91709b&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3Eecho+%22Hello%2C+World!%22;%3EConsole.WriteLine(%22Hello%2C+World!%22);%3Ecout+%3C%3C+%22Hello%2C+World!%22+%3C%3C+endl;%3Econsole.log(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'Danielly';" alt="Typing SVG" />
-</a>
+# Danielly Gomes
 
-![Texto alternativo](https://github.com/gmsdany/gmsdany/blob/main/banner%20github%20dany.2.gif)
+### 💻 Estudante de Ciência da Computação
 
-#
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=F72585&center=true&vCenter=true&width=560&lines=System.out.println(%22Hello%2C+World%21%22)%3B;console.log(%22Hello%2C+World%21%22)%3B;SELECT+nome+FROM+pessoas+WHERE+nome+%3D+%27Danielly%27%3B" alt="Typing SVG" />
 
-<p align="center">Computer Science student at Doctum Caratinga. Currently starting in Front-End development and studying C++ for academic projects. I'm interested in technology, design, and innovation. Always looking to learn and grow to create impactful solutions.
-  
-#
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:daniellycrgomes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](http://www.linkedin.com/in/danielly-gomes/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/gmsdany/)
-
-<h3 align="left">My Stack ~</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-
-  <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gmsdany&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/gmsdany/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gmsdany&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
 </div>
 
+<br>
 
-#
+## Sobre mim
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmsdany/gmsdany/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmsdany/gmsdany/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gmsdany/gmsdany/output/github-contribution-grid-snake.svg">
-</picture>
+Estudante de Ciência da Computação na **Faculdades Doctum de Caratinga**, em formação em desenvolvimento web/mobile. Curiosa por tecnologia, design e como as duas coisas se encontram. Sempre estudando algo novo — hoje é Java e JavaScript, amanhã pode ser qualquer coisa. 🚀
 
+📍 Tarumirim, MG &nbsp;•&nbsp; 🎯 em busca de um estágio em dev
+
+<br>
+
+## No que estou focada agora
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Alta prioridade**
+- Java — POO (encapsulamento, herança, interfaces)
+- JavaScript / Node.js
+- Comunicação para entrevistas técnicas
+
+</td>
+<td width="50%" valign="top">
+
+**Em andamento**
+- Estruturas de dados e algoritmos
+- Inglês técnico
+- Publicar mais projetos no GitHub
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Stack
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java" title="Java"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="42" alt="javascript" title="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5" title="HTML5"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3" title="CSS3"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python" title="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git" title="Git"/>
+</div>
+
+<br>
+
+## Projetos em destaque
+
+- **[RotaApp](https://github.com/)** — app de transporte escolar (Python / React Native / Firebase)
+- **[Bot de Caronas](https://github.com/gmsdany/bot-transporte-escolar)** — bot de WhatsApp via Twilio pra organizar caronas e ônibus escolar
+- **[PDI — Plano de Desenvolvimento](https://gmsdany.github.io/dany-pdi/)** — meu site pessoal com metas, estudos e projetos
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gmsdany&hide_title=true&show_icons=true&count_private=true&line_height=25&hide=issues&bg_color=00000000&title_color=FF6B35&text_color=6B5B6E&icon_color=F72585&border_color=FFB627&border_radius=12" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmsdany&layout=compact&hide_title=false&langs_count=6&bg_color=00000000&title_color=FF6B35&text_color=6B5B6E&icon_color=F72585&border_color=FFB627&border_radius=12" alt="Top langs" height="165"/>
+</div>
+
+<br>
+
+## Conecte comigo
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniellycrgomes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-F72585?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/danielly-gomes/)
+[![Instagram](https://img.shields.io/badge/-Instagram-FFB627?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gmsdany/)
+
+</div>
