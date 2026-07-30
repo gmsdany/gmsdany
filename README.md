@@ -64,15 +64,6 @@ Estudante de Ciência da Computação na **Faculdades Doctum de Caratinga**, em 
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gmsdany&hide_title=true&show_icons=true&count_private=true&line_height=25&hide=issues&bg_color=00000000&title_color=FF6B35&text_color=6B5B6E&icon_color=F72585&border_color=FFB627&border_radius=12" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmsdany&layout=compact&hide_title=false&langs_count=6&bg_color=00000000&title_color=FF6B35&text_color=6B5B6E&icon_color=F72585&border_color=FFB627&border_radius=12" alt="Top langs" height="165"/>
-</div>
-
-<br>
-
 ## Conecte comigo
 
 <div align="center">
