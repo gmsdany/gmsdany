@@ -14,7 +14,7 @@
 
 Estudante de Ciência da Computação na **Faculdades Doctum de Caratinga**, em formação em desenvolvimento web/mobile. Curiosa por tecnologia, design e como as duas coisas se encontram. Sempre estudando algo novo — hoje é Java e JavaScript, amanhã pode ser qualquer coisa. 🚀
 
-📍 Tarumirim, MG &nbsp;•&nbsp; 🎯 em busca de um estágio em dev
+📍 Tarumirim, MG &nbsp;•&nbsp; 
 
 <br>
 
